@@ -4,5 +4,4 @@ https://wonseokan.tistory.com/10
 <img src = "https://github.com/Ahnwonseok/Resell-modeling/assets/95980876/eaec5a14-daaa-4040-822a-66e466f8647a.jpg" width="80%" height="80%">
 
 # 아키텍쳐
-
-<img src = "https://github.com/Ahnwonseok/Resell-modeling/assets/95980876/ef5f3d37-819a-4488-a2fe-b85043102dd2.jpg" width="70%" height="70%">
+<img src = "https://github.com/Ahnwonseok/Resell-modeling/assets/95980876/a9ca488f-e966-4103-b0b1-e4dbdbccda68.jpg" width="70%" height="70%">
